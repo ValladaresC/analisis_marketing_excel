@@ -108,4 +108,5 @@ Adicional se contaron la cantidad de campañas llevadas a cabo porque una sola c
 
 ## Visualización de Resultados
 
-![analisis_marketing_resultados](https://github.com/user-attachments/assets/262a5389-ab2e-4fed-838f-e4409d3a1bea)
+![analisis_marketing_resultados](https://github.com/user-attachments/assets/39f0cf50-26f4-46b0-840b-79ad906e4ccc)
+
